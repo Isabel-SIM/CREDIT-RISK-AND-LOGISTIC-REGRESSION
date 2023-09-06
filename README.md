@@ -45,4 +45,3 @@ Both models perform well in predicting healthy loans, but the resampled data mod
 4. Review the Credit Risk Analysis Report for detailed results and recommendations.
 
 For detailed code and analysis, please refer to the Jupyter Notebook.
-
